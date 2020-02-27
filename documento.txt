@@ -1,1 +1,2 @@
-Hola mundo y todos los que habitan
+Hola mundo y todos los que habitan.
+Este el proyecto de git
