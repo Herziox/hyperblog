@@ -1,2 +1,4 @@
 Hola mundo 
 Ahora si comienza el proyecto
+
+Hola soy Sergio Andres, y estoy en Linux
