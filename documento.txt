@@ -1,4 +1,4 @@
 Hola mundo 
 Ahora si comienza el proyecto
 
-Hola soy Sergio Andres, y estoy en Linux
+Hola soy Sergio Andres, y se me daño la otra maquina virtual
