@@ -2,3 +2,5 @@ Hola mundo
 Ahora si comienza el proyecto
 
 Hola soy Sergio Andres, y se me daño la otra maquina virtual
+
+Hola ahora estoy retomando el curso de github por su relevancia y por que ya se me estaba olvidando 
